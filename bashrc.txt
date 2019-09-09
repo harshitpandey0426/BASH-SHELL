@@ -1,0 +1,8 @@
+USER:harshit
+PWD:/home/harshit/Desktop/2019201088_assignment1
+HOSTNAME:harshit-Inspiron-3558
+PS1:\[\e]0;\u@\h: \w\a\]->
+HOME:/home/harshit
+PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+

@@ -1,0 +1,8 @@
+ls 
+alias c = ls -l 
+c 
+ls >> line 
+ls >> go.txt 
+cat go.txt 
+echo $PWD 
+eco[A[A[B[B[B 
