@@ -23,6 +23,6 @@ Syntax:
 
 5.History command is added.
 
-6.Final.c contains execution of code.
+6.Shell.c contains execution of code.
 
-7.Final.h contains some important functions like redirection, environment setup etc.
+7.Function.h contains some important functions like redirection, environment setup etc.
