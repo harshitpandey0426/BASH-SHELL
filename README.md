@@ -1,8 +1,7 @@
-Task :
-
+# About
 Develop a working POSIX compatible shell with a subset of feature support of your default shell. Apart from basic working, required features to be implemented are listed below.
 
-Pre-requisites:
+# This shell supports following features:
 ● Multiprocess approach using fork syscall.
 ● Pipes for execution chaining and I/O redirection.
 ● Environment variables and export.
@@ -12,7 +11,7 @@ Pre-requisites:
 ● Files permissions and ownership in *nix or derived systems.
 ● Prompt and it’s meaning for each field, E.g. user@ubuntu:~$
 
-Syntax:
+# Syntax to be used for this shell:
 1. IO redirection with ‘>>’ and ‘>’ will be done for one source and one destination only.
 
 2. For ‘|’, a minimum 3 programs must be in pipe. E.g. cat file1.txt| sort | uniq > save.txt.
