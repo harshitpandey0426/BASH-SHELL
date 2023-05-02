@@ -1,5 +1,5 @@
 # About
-Develop a working POSIX compatible shell with a subset of feature support of your default shell. Apart from basic working, required features to be implemented are listed below.
+Developed a working POSIX compatible shell with a subset of feature support of your default shell. Apart from basic working, required features to be implemented are listed below.
 
 # This shell supports following features:
 * Multiprocess approach using fork syscall.
