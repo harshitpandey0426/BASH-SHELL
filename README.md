@@ -25,3 +25,6 @@ Develop a working POSIX compatible shell with a subset of feature support of you
 * Shell.c contains execution of code.
 
 * Function.h contains some important functions like redirection, environment setup etc.
+
+# To Run shell:
+> Run shell.c
